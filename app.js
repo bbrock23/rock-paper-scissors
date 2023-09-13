@@ -1,7 +1,7 @@
 const choices = ['rock', 'paper', 'scissors']; 
 const computerSelection = getComputerChoice(); 
-//const playerSelection = prompt('Type rock, paper, or scissors.');  
-const playerSelection = "rock"; 
+const playerSelection = prompt('Type rock, paper, or scissors.');  
+//const playerSelection = "rock"; 
 
 // get computer choice 
 
